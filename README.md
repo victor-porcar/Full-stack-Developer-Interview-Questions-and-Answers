@@ -1,5 +1,5 @@
 # Full-stack Developer Interview Questions and Answers
-
+ 
 ## <a name='toc'>Table of Contents</a>
 
   * [Architecture](#architecture)
